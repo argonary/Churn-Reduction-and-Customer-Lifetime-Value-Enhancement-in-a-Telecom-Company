@@ -98,3 +98,5 @@ This project is for academic and professional demonstration purposes. Feel free 
 ## Contact
 
 For inquiries or collaboration opportunities, feel free to reach out via LinkedIn or GitHub.
+
+Here's the [View Project PDF on Google Drive](https://drive.google.com/file/d/15KpzttjuPgY4ipJLbhDk9JVfwwDhSzOp/view?usp=drive_link) for the presentation
